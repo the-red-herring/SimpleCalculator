@@ -1,0 +1,6 @@
+Z:\Stephen\git\CalculatorTest\Calculator\bin\Debug\Calculator.dll
+Z:\Stephen\git\CalculatorTest\Calculator\bin\Debug\Calculator.pdb
+Z:\Stephen\git\CalculatorTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+Z:\Stephen\git\CalculatorTest\Calculator\obj\Debug\Calculator.dll
+Z:\Stephen\git\CalculatorTest\Calculator\obj\Debug\Calculator.pdb
+Z:\Stephen\git\CalculatorTest\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache

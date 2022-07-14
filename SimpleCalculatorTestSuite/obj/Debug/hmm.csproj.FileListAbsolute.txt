@@ -1,0 +1,16 @@
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\hmm.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\hmm.pdb
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\Stephen\git\CalculatorTest\hmm\obj\Debug\hmm.csproj.AssemblyReference.cache
+Z:\Stephen\git\CalculatorTest\hmm\obj\Debug\hmm.csproj.CoreCompileInputs.cache
+Z:\Stephen\git\CalculatorTest\hmm\obj\Debug\hmm.csproj.CopyComplete
+Z:\Stephen\git\CalculatorTest\hmm\obj\Debug\hmm.dll
+Z:\Stephen\git\CalculatorTest\hmm\obj\Debug\hmm.pdb
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Calculator.dll
+Z:\Stephen\git\CalculatorTest\hmm\bin\Debug\Calculator.pdb
